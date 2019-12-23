@@ -41,7 +41,7 @@ class Calculator{
 				break;
 			default:
 				total = 0;
-				System.out.println("Peice of shit");
+				System.out.println("Wrong response!");
 				break;
 		}
 	
