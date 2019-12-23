@@ -1,3 +1,8 @@
+/* This is the second Java program I have written
+ * The first was a simple HelloWorld project.
+ * The main goal of this projects is to become familiar with the syntax of Java a bit
+ */
+
 import java.util.Scanner;
 
 class Calculator{
