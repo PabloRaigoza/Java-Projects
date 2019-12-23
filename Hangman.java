@@ -1,3 +1,7 @@
+/* This is one of my first Java programs that I have written
+ * The main gaol of this is to become more familiar with the Java language.
+ * I was NOT trying to make a exciting/thrilling hangman game
+ */
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Random;
